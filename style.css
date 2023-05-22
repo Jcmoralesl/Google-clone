@@ -149,18 +149,18 @@ main .latin-español {
 
 footer {
     width: 100%;
-    height: 50px;
+    height: 80px;
     position: absolute;
     bottom: 0;
     display: grid;
     grid-template-columns:1fr 1fr;
     align-items: center;
     background-color: #f2f2f2;
-    border-top:  1px solid dadce0;
+    border-top: 1px solid dadce0;
 }
 
 footer .colombia {
-    padding: 10px 10px 0 10px;
+    padding: 15px 30px;
     border-bottom: 1px solid #dadce0;
     color: #70757a;
 }
